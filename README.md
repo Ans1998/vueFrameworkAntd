@@ -1,7 +1,7 @@
 # antd-demo
 
 ### 效果图
-![项目演示](https://raw.githubusercontent.com/Aliceco/react-umi-admin/master/src/assets/demo/0.png)
+![项目演示](https://raw.githubusercontent.com/Ans1998/vueFrameworkAntd/main/src/assets/IhUXJdml0Z.gif)
 
 ## Project setup
 ```
