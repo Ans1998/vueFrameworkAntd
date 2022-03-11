@@ -1,5 +1,8 @@
 # antd-demo
 
+### 效果图
+![项目演示](https://raw.githubusercontent.com/Aliceco/react-umi-admin/master/src/assets/demo/0.png)
+
 ## Project setup
 ```
 npm install
